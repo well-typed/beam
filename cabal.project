@@ -3,7 +3,7 @@ packages:
   beam-migrate
 --  beam-migrate-cli
 --  beam-postgres
---  beam-sqlite
+  beam-sqlite
 
 repository head.hackage.ghc.haskell.org
    url: https://ghc.gitlab.haskell.org/head.hackage/
